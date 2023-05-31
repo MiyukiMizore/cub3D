@@ -1,0 +1,7 @@
+.vscode
+*.swp
+.DS_Store
+*.o
+MLX42
+Cub3d
+libft.a
